@@ -1,0 +1,26 @@
+.satalite-box{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.satelite{
+    display: flex;
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 0px 10px rgba(3, 0, 0, 0.1);
+    background-color: #ffffff;
+    gap: 25px;
+}
+
+.sat-con, img{
+    border-radius: 16px;
+    margin-bottom: 25px;
+}
+.satalite-box, p{
+    padding: 12px;
+}
