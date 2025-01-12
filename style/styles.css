@@ -51,3 +51,30 @@
     background-color: #006A50;
     border: none;
 }
+
+
+/* pillar of bd style */
+.pillar-of-bd{
+    margin-top: 80px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.h1bd{
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.pillars{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+.pillar{
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+.icon1{
+    margin-bottom: 25px;
+}
