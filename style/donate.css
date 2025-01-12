@@ -1,0 +1,56 @@
+.donate-box{
+    justify-content: center;
+    align-items: center;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: px;
+    border-radius: 16px;
+}
+
+.donation-option{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-left: 105px;
+    margin-right: 105px;
+
+}
+
+.d-box{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 16px;
+    cursor: pointer;
+    
+}
+
+.ammount{
+    display: flex;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 16px;
+    margin: 0 125px;
+}
+
+
+
+.amount {
+    width: 100%; 
+    padding: 15px;
+    font-size: 18px; 
+    border: 2px solid #ccc;
+    border-radius: 16px;
+    margin: 25px;
+}
+
+.amount:focus {
+    border-color: #4CAF50;
+    outline: none;
+    margin-top: 25px;
+}
